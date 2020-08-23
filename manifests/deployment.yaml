@@ -47,7 +47,7 @@ spec:
         - --level=info
         - --random-delay=false
         - --random-error=false
-        - --ui-message='Welcome!! tokutakes2'
+        - --ui-message='Welcome!! tokutakes prd'
         env:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
